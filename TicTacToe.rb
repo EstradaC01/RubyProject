@@ -1,5 +1,3 @@
-# Author: Estrada, Carl Daniel
-
 require 'tk'
 
 class TicTacToe
