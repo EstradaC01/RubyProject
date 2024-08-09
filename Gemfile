@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-bundle init
+bundle install
 install tk
 
 # gem "rails"
